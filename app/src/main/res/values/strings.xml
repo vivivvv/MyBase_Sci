@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyBase</string>
+    <string name="collecting_details">Collecting details</string>
+    <string name="male">Male</string>
+    <string name="other">Other</string>
+    <string name="female">Female</string>
+    <string name="choose_your_gender">Choose your gender</string>
+    <string name="submit">Submit</string>
+    <string name="enter_your_mobile_number">Enter your mobile number</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="name">Name:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="user_list">User list</string>
+</resources>
